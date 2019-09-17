@@ -1,4 +1,4 @@
-# Playground
+# Playdate
 
 A place to play with `git`.
 
